@@ -10,4 +10,4 @@ The repository relies on the packages:
  4) Seaborn.
  5) Scikit-learn.
 
-The tool set includes the implementation of ML algorithms. 
+The tool set includes the implementation of Machine Learning algorithms. 
